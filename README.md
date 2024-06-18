@@ -217,3 +217,5 @@ Dado que  en el ejemplo pasado usadno solo markdown no se puede realizar la fusi
 </tr>
 
 </table>
+
+![](https://github.com/Danny88e/Integradora-Practica02/blob/main/git.jpg)

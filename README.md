@@ -84,7 +84,30 @@ Algunas veces necesitaremos subraya texto dentro de la documentación, para ello
 
 Texto Texto Texto Texto Texto  Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto Cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Subrayado</ins> Texto.
 
+### 5. Cuadrados para código o Reseñas (BLOCKQUOTES)
 
+Estos elementos son utilizados para resaltar instruccioes especiicas para la instalación, configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un simbolo de mayor que (\>)
+
+**EJEMPLO:**
+Para listar las carpetas y archivos en desde una terminal de sistema operativo Windows debemos ingresar con el comando:
+> C:/dir
+
+Después oprimimos la tecla "Enter".
+
+Tambien podemos ingresar textos multilinea.
+
+**EJEMPLO:**
+
+> Aquí se ingresan un conjunto de instrucciones para explicar al usuario, como instalar el software que
+> hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar podemos utilizar el caracter - dentro del texto a documentar.
+**EJEMPLO:**
+> - Descargar MySQL Server del Sitio Oficial
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario ***root***
+> - Descargamos el archivo de respaldo de la base de datos (.sql)
+> - Restauramos la Base de Datos usano el comando *my sql *
+  >> C:/program Files/MySQL Server 8.0/bin/mysql -u root -p password \< respaldo.sql
 
 ### 6. Listas Ordenadas y Listas Desordenadas
 

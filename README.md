@@ -218,4 +218,6 @@ Dado que  en el ejemplo pasado usadno solo markdown no se puede realizar la fusi
 
 </table>
 
+###9. Imagenes
+
 ![](https://github.com/Danny88e/Integradora-Practica02/blob/main/git.jpg)
